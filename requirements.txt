@@ -1,0 +1,11 @@
+# FinSight - Financial Data Analytics Dashboard
+
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.3
+plotly==5.18.0
+prophet==1.1.5
+scikit-learn==1.4.0
+joblib==1.3.2
+matplotlib==3.8.2
+seaborn==0.13.1

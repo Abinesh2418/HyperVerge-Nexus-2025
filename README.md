@@ -410,13 +410,6 @@ This project is part of the HyperVerge Nexus program.
 - Interactive dashboard for visualization
 - API integration for production deployment
 - Anomaly detection for unusual spending patterns
-
-## License
-This project is part of the HyperVerge study initiative.
-
-## Author
-Created as part of HyperVerge financial analytics research project.
-
 ---
 
 ## 📬 Contact
